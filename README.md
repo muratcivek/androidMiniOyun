@@ -1,5 +1,6 @@
 # androidMiniOyun
-Android Studio üzerinde Java dilini kullanarak LibGDX kütüphanesi tabanlı mini bir mobil Android oyunu
+**Teknolojiler:** Java, LibGDX <br>
+**Açıklama:** Engelleri geçtikçe puan kazandıran, eğlenceli mobil oyun. <br>
 
 Oyunun içinden örnek bir görsel:  
 ![oyun görseli](https://github.com/muratcivek/androidMiniOyun/blob/main/oyunGorseliGuncel.png)
